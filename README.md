@@ -2,10 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Abhiram V S [https://github.com/zeusenpai]
-2. Adithya M Beejoy [https://github.com/Adhithya-273]
-3. A Devanarayanan [https://github.com/Devan2005]
-4. Abhishek Krishna [https://github.com/abhishekkrishna10]
+1. Abhiram V S [zeusenpai](https://github.com/zeusenpai)
+2. Adithya M Beejoy [Adhithya-27](https://github.com/Adhithya-273)
+3. A Devanarayanan [Devan2005](https://github.com/Devan2005)
+4. Abhishek Krishna [AbhishekKrishna10](https://github.com/abhishekkrishna10)
 ## Team Id
 nothing
 ## Link to product walkthrough
