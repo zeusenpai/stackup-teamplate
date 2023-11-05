@@ -1,5 +1,5 @@
-[![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)]
-# Project Name
+![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
+# nothing (a simple e commerce website)
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Abhiram V S [zeusenpai](https://github.com/zeusenpai)
